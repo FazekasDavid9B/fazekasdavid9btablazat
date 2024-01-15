@@ -1,0 +1,37 @@
+body{
+    background-color: greenyellow;
+}
+ table{
+     margin: auto;
+ }
+table, td{
+    border-collapse: collapse;
+}
+td{
+    width: 200px;
+    height: 200px;
+}
+.black{
+    background-color: red;
+}
+.white{
+    background-color: white;
+}
+h1{
+    text-align: center;
+}
+ #egyediszin{
+     background-color: firebrick;
+ }
+.nagydoboz{
+    display: flex;
+     /*border: 2px dashed black; */
+    }
+ .kisdoboz{
+     background-color: grey;
+     border: 1px solid;
+     border-radius: 15px;
+     margin: 0px 15px;
+     padding: 10px;
+     text-align: justify;
+ }
